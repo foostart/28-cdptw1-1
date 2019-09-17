@@ -13,26 +13,32 @@ if (!class_exists('lessc')) {
 }
 
 $less = new lessc;
-$less->compileFile('less/139.less', 'css/139.css');
+$less->compileFile('less/805.less', 'css/805.css');
 ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>139</title>
+        <title>805</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="<?php echo $url_path ?>/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
-        <link href="<?php echo $url_path ?>/css/139.css" rel="stylesheet" type="text/css" />
+        <link href="<?php echo $url_path ?>/css/805.css" rel="stylesheet" type="text/css" />
+        <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+        <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <!------ Include the above in your HEAD tag ---------->
+
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css">
         
         <?php
         if (!class_exists('lessc')) {
             include ('./libs/lessc.inc.php');
         }
         $less = new lessc;
-        $less->compileFile('less/139.less', 'css/139.css');
+        $less->compileFile('less/805.less', 'css/805.css');
         ?>
     </head>
     <body >
-        <?php include '../139/139-content.php'; ?>
+        <?php include './805-content.php'; ?>
     </body>
 </html>
