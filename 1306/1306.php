@@ -27,7 +27,11 @@
         <link href="<?php echo $url_path ?>/css/bootstrap.min.css" rel="stylesheet">
         <link href="<?php echo $url_path ?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
         <link href="<?php echo $url_path ?>/css/1306.css" rel="stylesheet" type="text/css" />
+<<<<<<< HEAD
+        <title>1306</title>
+=======
         <title>type-327_1</title>
+>>>>>>> 3748d2aa30c7ac0c145771fb9346371b8a23db04
     </head>
 
     <body>

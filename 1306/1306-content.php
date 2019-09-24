@@ -8,7 +8,11 @@ $url_path = $url_host . $matches[1][0];
 $url_path = str_replace('\\', '/', $url_path);
 ?>    
     <div class="type-1306">
+<<<<<<< HEAD
+    <div class="row"> 
+=======
         <div class="row"> 
+>>>>>>> 3748d2aa30c7ac0c145771fb9346371b8a23db04
             <div class="footer tc-padding-top">
                 <div class="container">
                     <div class="newslatter-holder h-white">
