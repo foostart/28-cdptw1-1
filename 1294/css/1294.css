@@ -4,15 +4,20 @@ a {
   font-size: 13.5px;
 }
 @font-face {
+<<<<<<< HEAD
+=======
   font-family: Kaushan Script;
   src: url(../fonts/Kaushan-Script.woff2);
   font-weight: bold;
 }
 @font-face {
+>>>>>>> 3748d2aa30c7ac0c145771fb9346371b8a23db04
   font-family: Libre Baskerville;
   src: url(../fonts/Libre-Baskerville.woff2);
   font-weight: bold;
 }
+<<<<<<< HEAD
+=======
 @font-face {
   font-family: Varela Round;
   src: url(../fonts/Varela-Round.woff2);
@@ -28,6 +33,7 @@ a {
   src: url(../fonts/IcoMoon-Free.ttf);
   font-weight: bold;
 }
+>>>>>>> 3748d2aa30c7ac0c145771fb9346371b8a23db04
 .type-1294 .header-top {
   position: absolute;
   width: 100%;

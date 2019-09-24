@@ -93,12 +93,16 @@ $url_path = str_replace('\\', '/', $url_path);
                         </ul>
                     </div>
                     <div class="navi-cart">
+<<<<<<< HEAD
+                        
+=======
                         <div class="search">
                             <i class="fa fa-search icon-search"></i>
                             <form class="search-panel" method="post">
                                 <input type="search" class="menu-search-text" placeholder="Please input search...">
                             </form>
                         </div>
+>>>>>>> 3748d2aa30c7ac0c145771fb9346371b8a23db04
                         <div class="shop-cart">
                             <a href="#"><i class="fa fa-shopping-bag"></i></a>
                             <span>0</span>
@@ -109,6 +113,15 @@ $url_path = str_replace('\\', '/', $url_path);
                         <div id="icon-responsive">
                             <i class="fa fa-bars"></i>
                         </div>
+<<<<<<< HEAD
+                        <div class="search">
+                            <i class="fa fa-search icon-search"></i>
+                            <form class="search-panel" method="post">
+                                <input type="search" class="menu-search-text" placeholder="Please input search...">
+                            </form>
+                        </div>
+=======
+>>>>>>> 3748d2aa30c7ac0c145771fb9346371b8a23db04
                     </div>
                 </div>
                 <div class="header-banner">

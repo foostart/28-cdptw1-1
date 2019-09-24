@@ -22,7 +22,11 @@ $less->compileFile('less/1291.less', 'css/1291.css');
 <html lang="en">
 
 <head>
+<<<<<<< HEAD
+    <title>1291</title>
+=======
     <title>259</title>
+>>>>>>> 3748d2aa30c7ac0c145771fb9346371b8a23db04
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="<?php echo $url_path ?>/css/font-awesome.min.css" rel="stylesheet" type="text/css" />   
