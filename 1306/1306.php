@@ -27,15 +27,18 @@
         <link href="<?php echo $url_path ?>/css/bootstrap.min.css" rel="stylesheet">
         <link href="<?php echo $url_path ?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
         <link href="<?php echo $url_path ?>/css/1306.css" rel="stylesheet" type="text/css" />
-<<<<<<< HEAD
+        <link rel="stylesheet" href="css/swiper.css">
+        <link rel="stylesheet" href="css/swiper.min.css">
+        <script src="js/swiper.js"></script>
+        <script src="js/swiper.min.js"></script>
         <title>1306</title>
-=======
-        <title>type-327_1</title>
->>>>>>> 3748d2aa30c7ac0c145771fb9346371b8a23db04
     </head>
 
     <body>
+        
         <?php include $dir_block.'/1306-content.php'; ?>
+        
+        <script src="js/slie.js"></script>
     </body>
 
 </html>
