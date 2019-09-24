@@ -1,0 +1,68 @@
+.type-1299 .product-info h1 {
+  color: #000;
+  font-size: 43px;
+  line-height: 0.93em;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 0;
+}
+.type-1299 .product-info p {
+  color: #000;
+  font-size: 14px;
+  line-height: 30px;
+  margin: 0;
+  padding-top: 35px;
+}
+.type-1299 .product-info .theme-btn-1 {
+  margin-top: 35px;
+}
+.type-1299 .theme-btn-1 {
+  display: inline-block;
+  text-transform: uppercase;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 15px;
+  padding: 26px 60px;
+  color: #fff;
+  background: #f57c00;
+  text-decoration: none;
+}
+.type-1299 .theme-btn-1:hover {
+  display: inline-block;
+  text-transform: uppercase;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 15px;
+  padding: 26px 60px;
+  color: #fff;
+  background: #263238;
+}
+@media (max-width: 768px) {
+  .type-1299 .product-info h1 {
+    font-size: 30px;
+  }
+  .type-1299 .theme-btn-1 {
+    font-size: 13px;
+    padding: 24px 40px;
+  }
+  .type-1299 .theme-btn-1:hover {
+    font-size: 13px;
+    padding: 24px 40px;
+  }
+  .type-1299 .product-info p {
+    font-size: 15px;
+  }
+}
+@media (max-width: 460px) {
+  .type-1299 .theme-btn-1 {
+    font-size: 13px;
+    padding: 20px 29px;
+  }
+  .type-1299 .theme-btn-1:hover {
+    font-size: 13px;
+    padding: 20px 29px;
+  }
+  .type-1299 .product-info p {
+    font-size: 13px;
+  }
+}
