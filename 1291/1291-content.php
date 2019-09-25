@@ -162,7 +162,7 @@ $url_path = str_replace('\\', '/', $url_path);
         </div>
 
         <div class="btn-group">
-            <a data-original-title="Refresh" data-placement="top" data-toggle="dropdown" href="#" class="btn  ">
+            <a data-original-title="Refresh" data-placement="top" data-toggle="dropdown" href="./1291.php" class="btn  ">
                 <i class=" fa fa-refresh"></i>
             </a>
         </div>
