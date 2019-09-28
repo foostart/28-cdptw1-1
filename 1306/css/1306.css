@@ -474,4 +474,7 @@
   .type-1306 .footer-c-widget {
     margin-top: 20px;
   }
+  .type-1306 .footer-c-widget .social-icons {
+    padding-left: 25%;
+  }
 }

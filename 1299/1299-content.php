@@ -17,12 +17,31 @@ $url_path = str_replace('\\', '/', $url_path);
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                         <br>Quisque ultrices justo sed vehicula fringilla.</p>
                         <a href="#" class="theme-btn-1">Buy now</a>
+                </div>
+             </div>
+             <div class="col-md-8">
+                    <div class="swiper-container">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">Slide 1</div>
+                            <div class="swiper-slide">Slide 2</div>
+                            <div class="swiper-slide">Slide 3</div>
+                            <div class="swiper-slide">Slide 4</div>
+                            <div class="swiper-slide">Slide 5</div>
+                            <div class="swiper-slide">Slide 6</div>
+                            <div class="swiper-slide">Slide 7</div>
+                            <div class="swiper-slide">Slide 8</div>
+                            <div class="swiper-slide">Slide 9</div>
+                            <div class="swiper-slide">Slide 10</div>
+                        </div>
+                        <!-- Add Pagination -->
+                        <div class="swiper-pagination"></div>
+                        <!-- Add Arrows -->
+                        <div class="swiper-button-next"></div>
+                        <div class="swiper-button-prev"></div>
+                        <div class="swiper-scrollbar"></div>
                     </div>
-                </div>
-                <div class="col-md-8">
-                <img src="<?php echo $url_path ?>/images/sale-product-2.png" class="img-responsive" alt="">
-                </div>
-            </div>
+                    <img src="<?php echo $url_path ?>/images/sale-product-2.png" class="img-responsive" alt="">
+             </div>
         </div>
-    </div>
+    </div>  
 </div>

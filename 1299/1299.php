@@ -23,12 +23,20 @@
 <head>
     <meta charset="UTF-8">
     <title>type-1299</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="<?php echo $url_path ?>/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
     <link href="<?php echo $url_path ?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
     <link href="<?php echo $url_path ?>/css/1299.css" rel="stylesheet" type="text/css"/>
+    <link rel="stylesheet" href="css/swiper.min.css" >
+    
 </head>
 
 <body>
     <?php include $dir_block.'/1299-content.php'; ?>
+
+    <script src="<?php echo $url_path ?>/js/swiper.min.js"></script>
+    <script src="<?php echo $url_path ?>/js/swiper.js"></script>
+    <script src="<?php echo $url_path ?>/js/1299.js"></script>
+
 </body>
 </html>

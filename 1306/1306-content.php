@@ -120,7 +120,7 @@ $url_path = str_replace('\\', '/', $url_path);
 
             <a href=""></a>
             <div class="sub-footer p-white text-center">
-                <p>© Copyright 2015. Powered by WordPress. Aristotle by Sunrise theme</p>
+                <p>&copy; Copyright 2015. Powered by WordPress. Aristotle by Sunrise theme</p>
             </div>
         </div>
     </div>
