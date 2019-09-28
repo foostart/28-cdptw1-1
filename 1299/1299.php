@@ -28,15 +28,14 @@
     <link href="<?php echo $url_path ?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
     <link href="<?php echo $url_path ?>/css/1299.css" rel="stylesheet" type="text/css"/>
     <link rel="stylesheet" href="css/swiper.min.css" >
+    <script src="./js/swiper.min.js"></script>
     
 </head>
 
 <body>
     <?php include $dir_block.'/1299-content.php'; ?>
 
-    <script src="<?php echo $url_path ?>/js/swiper.min.js"></script>
-    <script src="<?php echo $url_path ?>/js/swiper.js"></script>
+    
     <script src="<?php echo $url_path ?>/js/1299.js"></script>
-
 </body>
 </html>
