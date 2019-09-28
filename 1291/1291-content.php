@@ -205,7 +205,7 @@ $url_path = str_replace('\\', '/', $url_path);
         <tbody>
         <tr class="unread">
             <td class="">
-                <input type="checkbox" class="">
+                <input type="checkbox" class="" name='check'>
             </td>
             <td class=""><i class="fa fa-star"></i></td>
             <td>PHPClass</td>
@@ -215,7 +215,7 @@ $url_path = str_replace('\\', '/', $url_path);
         </tr>
         <tr class="unread">
             <td class="">
-                <input type="checkbox" class="">
+                <input type="checkbox" class="" name='check'>
             </td>
             <td class=""><i class="fa fa-star"></i></td>
             <td >Google Webmaster </td>
@@ -225,7 +225,7 @@ $url_path = str_replace('\\', '/', $url_path);
         </tr>
         <tr class="">
             <td class="">
-                <input type="checkbox" class="">
+                <input type="checkbox" class="" name='check'>
             </td>
             <td class=""><i class="fa fa-star"></i></td>
             <td >JW Player</td>
@@ -235,7 +235,7 @@ $url_path = str_replace('\\', '/', $url_path);
         </tr>
         <tr class="">
             <td class="">
-                <input type="checkbox" class="">
+                <input type="checkbox" class="" name='check'>
             </td>
             <td class=""><i class="fa fa-star"></i></td>
             <td >Tim Reid, S P N</td>
@@ -245,7 +245,7 @@ $url_path = str_replace('\\', '/', $url_path);
         </tr>
         <tr class="">
             <td class="">
-                <input type="checkbox" class="">
+                <input type="checkbox" class="" name='check'>
             </td>
             <td class=""><i class="fa fa-star inbox-started"></i></td>
             <td>Freelancer.com <span class="label label-danger pull-right">urgent</span></td>
@@ -255,7 +255,7 @@ $url_path = str_replace('\\', '/', $url_path);
         </tr>
         <tr class="">
             <td class="">
-                <input type="checkbox" class="">
+                <input type="checkbox" class="" name='check'>
             </td>
             <td class=""><i class="fa fa-star inbox-started"></i></td>
             <td >WOW Slider </td>
@@ -265,7 +265,7 @@ $url_path = str_replace('\\', '/', $url_path);
         </tr>
         <tr class="">
             <td class="">
-                <input type="checkbox" class="">
+                <input type="checkbox" class="" name='check'>
             </td>
             <td class=""><i class="fa fa-star inbox-started"></i></td>
             <td >LinkedIn Pulse</td>
@@ -275,7 +275,7 @@ $url_path = str_replace('\\', '/', $url_path);
         </tr>
         <tr class="">
             <td class="">
-                <input type="checkbox" class="">
+                <input type="checkbox" class="" name='check'>
             </td>
             <td class=""><i class="fa fa-star"></i></td>
             <td>Drupal Community<span class="label label-success pull-right">megazine</span></td>
@@ -285,7 +285,7 @@ $url_path = str_replace('\\', '/', $url_path);
         </tr>
         <tr class="">
             <td class="">
-                <input type="checkbox" class="">
+                <input type="checkbox" class="" name='check'>
             </td>
             <td class=""><i class="fa fa-star"></i></td>
             <td class="span">Facebook</td>
@@ -295,7 +295,7 @@ $url_path = str_replace('\\', '/', $url_path);
         </tr>
         <tr class="">
             <td class="">
-                <input type="checkbox" class="">
+                <input type="checkbox" class="" name='check'>
             </td>
             <td class=""><i class="fa fa-star"></i></td>
             <td class="span">Skype <span class="label label-info pull-right">family</span></td>
@@ -305,7 +305,7 @@ $url_path = str_replace('\\', '/', $url_path);
         </tr>
         <tr class="">
             <td class="">
-                <input type="checkbox" class="">
+                <input type="checkbox" class="" name='check'>
             </td>
             <td class=""><i class="fa fa-star inbox-started"></i></td>
             <td class="span">Google+</td>
@@ -315,7 +315,7 @@ $url_path = str_replace('\\', '/', $url_path);
         </tr>
         <tr class="">
             <td class="">
-                <input type="checkbox" class="">
+                <input type="checkbox" class="" name='check'>
             </td>
             <td class=""><i class="fa fa-star inbox-started"></i></td>
             <td>Zoosk </td>
@@ -325,7 +325,7 @@ $url_path = str_replace('\\', '/', $url_path);
         </tr>
         <tr class="">
             <td class="">
-                <input type="checkbox" class="">
+                <input type="checkbox" class="" name='check'>
             </td>
             <td class=""><i class="fa fa-star"></i></td>
             <td class="span">LinkedIn </td>
@@ -335,7 +335,7 @@ $url_path = str_replace('\\', '/', $url_path);
         </tr>
         <tr class="">
             <td class="">
-                <input type="checkbox" class="">
+                <input type="checkbox" class="" name='check'>
             </td>
             <td class=""><i class="fa fa-star"></i></td>
             <td >Facebook</td>
@@ -345,7 +345,7 @@ $url_path = str_replace('\\', '/', $url_path);
         </tr>
         <tr class="">
             <td class="">
-                <input type="checkbox" class="">
+                <input type="checkbox" class="" name='check'>
             </td>
             <td class=""><i class="fa fa-star"></i></td>
             <td class="span">Twitter</td>
@@ -355,7 +355,7 @@ $url_path = str_replace('\\', '/', $url_path);
         </tr>
         <tr class="">
             <td class="">
-                <input type="checkbox" class="">
+                <input type="checkbox" class="" name='check'>
             </td>
             <td class=""><i class="fa fa-star"></i></td>
             <td class="span">InternetSeer Website Monitoring</td>
@@ -365,7 +365,7 @@ $url_path = str_replace('\\', '/', $url_path);
         </tr>
         <tr class="">
             <td class="">
-                <input type="checkbox" class="">
+                <input type="checkbox" class="" name='check'>
             </td>
             <td class=""><i class="fa fa-star inbox-started"></i></td>
             <td class="span">AddMe.com</td>
@@ -375,7 +375,7 @@ $url_path = str_replace('\\', '/', $url_path);
         </tr>
         <tr class="">
             <td class="">
-                <input type="checkbox" class="">
+                <input type="checkbox" class="" name='check'>
             </td>
             <td class=""><i class="fa fa-star"></i></td>
             <td class="span">Terri Rexer, S P N</td>
@@ -385,7 +385,7 @@ $url_path = str_replace('\\', '/', $url_path);
         </tr>
         <tr class="">
             <td class="">
-                <input type="checkbox" class="">
+                <input type="checkbox" class="" name='check'>
             </td>
             <td class=""><i class="fa fa-star"></i></td>
             <td class="span">Bertina </td>
@@ -395,7 +395,7 @@ $url_path = str_replace('\\', '/', $url_path);
         </tr>
         <tr class="">
             <td class="">
-                <input type="checkbox" class="">
+                <input type="checkbox" class="" name='check'>
             </td>
             <td class=""><i class="fa fa-star inbox-started"></i></td>
             <td class="span">Laura Gaffin, S P N </td>
@@ -405,7 +405,7 @@ $url_path = str_replace('\\', '/', $url_path);
         </tr>
         <tr class="">
             <td class="">
-                <input type="checkbox" class="">
+                <input type="checkbox" class="" name='check'>
             </td>
             <td class=""><i class="fa fa-star"></i></td>
             <td class="span">Facebook</td>
